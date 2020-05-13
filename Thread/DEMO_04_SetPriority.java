@@ -16,7 +16,7 @@ class Zoo extends Thread{
     }
 }
 
-public class DEMO_04_setPriority{
+public class DEMO_04_SetPriority{
     public static void main(String args[]){
         Zoo dog    = new Zoo("doggy");
         Zoo cat    = new Zoo("kitty");
